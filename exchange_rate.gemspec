@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
     s.name        = 'exchange_rate'
-    s.version     = '1.1.5'
+    s.version     = '1.1.6'
     s.date        = '2015-10-25'
     s.summary     = "Exchange Rate Library"
     s.description = "A simple gem for finding exchange rates on certain dates"
